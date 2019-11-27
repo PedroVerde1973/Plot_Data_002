@@ -1,4 +1,4 @@
-# Python package plot weather data stored in a csv file.
+# Python package plot weather data stored in a csv file
 
 The input data file (JCMB_2011.zip) contains minute by minute weather measurements (atmospheric pressure (mBar), wind speed (m/s), relative humidity (%), etc.) covering January to October 2001. The code also contains a date-time field. Some fields contain erroneous data, which needs to be identified and handled.
 
