@@ -73,7 +73,7 @@ def in_out(filename):
 def plotter(xvalue, column, label):
     
     #plot the data
-    plt.plot(xvalue, column)
+    plt.plot(xvalue, column, color='purple', linewidth=0.5)
     
     #format the plot to make it more readable
     plt.ylabel(label)
